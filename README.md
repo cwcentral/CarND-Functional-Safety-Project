@@ -5,6 +5,45 @@
 Your job will be to create functional safety documents based on what you learned in the lessons. These documents are simplified versions of what a functional safety manager would create as part of a safety case. A safety case is a collection of documents proving that a project has made a vehicle safer.
 
 
+### Rubric Objectives
+
+The submission should include five documents all in pdf format:
+
+* Safety Plan
+
+        All required sections of the template should be filled out and contain reasonable answers
+
+
+* Hazard Analysis and Risk Assessment
+       
+       Two analyses should be documented using the Excel template.
+
+       Besides the two analyses from the lecture, the project should include two extra hazard analyses and risk assessments. 
+       
+       
+* Functional Safety Concept
+
+       All required sections from the functional safety concept template are complete.
+
+
+* Technical Safety Concept
+
+       The five technical safety requirements for the lane departure warning amplitude, as taught in the lessons, are documented correctly.
+
+       Technical safety requirements should also be derived for the lane departure warning frequency malfunction and the lane keeping assistance time malfunction.
+
+
+* Software Requirements and Architecture
+
+       All required sections of the software requirement and architecture document are complete (inputs to software requirements.., software requirements, and refined architecture).
+
+
+''These files are located as PDFs in the Answers subfolder. (Sources in a subfolder)''
+
+
+
+
+
 ### Description of Repo Files
 
 This repo contains all the files to complete the car nanodegree functional safety project. We are also providing the same files in a google drive folder. Here is the link to the Google Drive folder: [Link to templates](https://drive.google.com/open?id=0ByaZfGJuntGTQWRpNUpuNVVGNlU)
