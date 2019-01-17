@@ -38,7 +38,7 @@ The submission should include five documents all in pdf format:
        All required sections of the software requirement and architecture document are complete (inputs to software requirements.., software requirements, and refined architecture).
 
 
-''These files are located as PDFs in the Answers subfolder. (Sources in a subfolder)''
+#### These files are located as PDFs in the Answers subfolder. (Sources in a subfolder)
 
 
 
